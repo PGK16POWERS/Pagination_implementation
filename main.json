@@ -1,0 +1,158 @@
+[
+    {
+        "username": "James",
+        "latitude": -26.2041,
+        "longitude": 28.0473,
+        "town": "Sandton"
+    },
+    {
+        "username": "emma",
+        "latitude": -26.2070,
+        "longitude": 28.0480,
+        "town": "Randburg"
+    },
+    {
+        "username": "John",
+        "latitude": -26.1920,
+        "longitude": 28.0337,
+        "town": "Johannesburg CBD"
+    },
+    {
+        "username": "Sophia",
+        "latitude": -26.2074,
+        "longitude": 28.0482,
+        "town": "Sandton"
+    },
+    {
+        "username": "William",
+        "latitude": -26.1949,
+        "longitude": 28.0356,
+        "town": "Parkhurst"
+    },
+    {
+        "username": "Olivia",
+        "latitude": -26.1995,
+        "longitude": 28.0531,
+        "town": "Rosebank"
+    },
+    {
+        "username": "Noah",
+        "latitude": -26.1988,
+        "longitude": 28.0369,
+        "town": "Soweto"
+    },
+    {
+        "username": "Ava",
+        "latitude": -26.1942,
+        "longitude": 28.0462,
+        "town": "Midrand"
+    },
+    {
+        "username": "Liam",
+        "latitude": -26.2055,
+        "longitude": 28.0539,
+        "town": "Sandton"
+    },
+    {
+        "username": "isabella",
+        "latitude": -26.1957,
+        "longitude": 28.0350,
+        "town": "Parktown"
+    },
+    {
+        "username": "michael",
+        "latitude": -26.2009,
+        "longitude": 28.0436,
+        "town": "Melville"
+    },
+    {
+        "username": "sarah",
+        "latitude": -26.1971,
+        "longitude": 28.0455,
+        "town": "Roodepoort"
+    },
+    {
+        "username": "david",
+        "latitude": -26.2023,
+        "longitude": 28.0394,
+        "town": "Greenside"
+    },
+    {
+        "username": "emily",
+        "latitude": -26.2016,
+        "longitude": 28.0345,
+        "town": "Northcliff"
+    },
+    {
+        "username": "Jacob",
+        "latitude": -26.2034,
+        "longitude": 28.0502,
+        "town": "Sandton"
+    },
+    {
+        "username": "James",
+        "latitude": -26.2041,
+        "longitude": 28.0473,
+        "town": "Sandton"
+    },
+    {
+        "username": "emma",
+        "latitude": -26.2070,
+        "longitude": 28.0480,
+        "town": "Randburg"
+    },
+    {
+        "username": "John",
+        "latitude": -26.1920,
+        "longitude": 28.0337,
+        "town": "Johannesburg CBD"
+    },
+    {
+        "username": "Sophia",
+        "latitude": -26.2074,
+        "longitude": 28.0482,
+        "town": "Sandton"
+    },
+    {
+        "username": "William",
+        "latitude": -26.1949,
+        "longitude": 28.0356,
+        "town": "Parkhurst"
+    },
+    {
+        "username": "Olivia",
+        "latitude": -26.1995,
+        "longitude": 28.0531,
+        "town": "Rosebank"
+    },
+    {
+        "username": "Noah",
+        "latitude": -26.1988,
+        "longitude": 28.0369,
+        "town": "Soweto"
+    },
+    {
+        "username": "Ava",
+        "latitude": -26.1942,
+        "longitude": 28.0462,
+        "town": "Midrand"
+    },
+    {
+        "username": "Liam",
+        "latitude": -26.2055,
+        "longitude": 28.0539,
+        "town": "Sandton"
+    },
+    {
+        "username": "isabella",
+        "latitude": -26.1957,
+        "longitude": 28.0350,
+        "town": "Parktown"
+    },
+    {
+        "username": "Marjella Son",
+        "latitude": -26.0105,
+        "longitude": 28.0043,
+        "town": "Fourways Mall"
+    }
+]
